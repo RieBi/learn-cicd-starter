@@ -12,7 +12,3 @@ func TestSomething(t *testing.T) {
 		t.Fatalf("Beeeer")
 	}
 }
-
-func TestWront(t *testing.T) {
-	t.Fatalf("It should fail")
-}
